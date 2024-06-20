@@ -35,12 +35,11 @@ See the available models [here](https://github.com/Value4AI/ValueBench/blob/main
 If you find ValueBench useful:
 
 ```bibtex
-@misc{ren2024valuebench,
+@article{ren2024valuebench,
       title={ValueBench: Towards Comprehensively Evaluating Value Orientations and Understanding of Large Language Models}, 
       author={Yuanyi Ren and Haoran Ye and Hanjun Fang and Xin Zhang and Guojie Song},
       year={2024},
-      eprint={2406.04214},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+      journal={arXiv preprint arXiv:2406.04214},
+      note={\url{https://github.com/Value4AI/ValueBench}}
 }
 ```
