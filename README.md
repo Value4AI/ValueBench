@@ -18,12 +18,6 @@ The table below compares ValueBench with prior benchmarking and evaluation effor
 
 The evaluation pipeline is exemplified in the figure above. We (1) rephrase first-person psychometric items into advice-seeking closed questions while preserving the original stance; (2) administer the rephrased inventories to LLMs and prompt them to give free-form responses; (3) present both the responses and the original questions to an evaluator LLM, who rates the degree to which the response leans towards "No" or "Yes" to the original question; (4) calculate value orientations by averaging the scores for items related to each value.
 
-
-
-### Value Understanding
-Coming soon!
-
-
 ## 🔑 Usage
 An example of evaluating the value orientations of an LLM
 ```bash
