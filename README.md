@@ -29,11 +29,18 @@ See the available models [here](https://github.com/Value4AI/ValueBench/blob/main
 If you find ValueBench useful:
 
 ```bibtex
-@article{ren2024valuebench,
-      title={ValueBench: Towards Comprehensively Evaluating Value Orientations and Understanding of Large Language Models}, 
-      author={Yuanyi Ren and Haoran Ye and Hanjun Fang and Xin Zhang and Guojie Song},
-      year={2024},
-      journal={arXiv preprint arXiv:2406.04214},
-      note={\url{https://github.com/Value4AI/ValueBench}}
+@inproceedings{ren-etal-2024-valuebench,
+    title = "{V}alue{B}ench: Towards Comprehensively Evaluating Value Orientations and Understanding of Large Language Models",
+    author = "Ren, Yuanyi  and
+      Ye, Haoran  and
+      Fang, Hanjun  and
+      Zhang, Xin  and
+      Song, Guojie",
+    booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    year = "2024",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.acl-long.111",
+    doi = "10.18653/v1/2024.acl-long.111",
+    pages = "2015--2040",
 }
 ```
