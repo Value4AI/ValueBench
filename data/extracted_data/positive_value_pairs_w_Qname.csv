@@ -1,0 +1,497 @@
+q1,q2,v1,v2,relation
+NFCC1993,NFCC1993,Preference for Order and Structure,Need for Cognitive Closure,1
+NFCC1993,NFCC1993,Need for Cognitive Closure,Preference for Order and Structure,2
+NFCC1993,NFCC1993,Preference for Predictability,Need for Cognitive Closure,1
+NFCC1993,NFCC1993,Need for Cognitive Closure,Preference for Predictability,2
+NFCC1993,NFCC1993,Decisiveness,Need for Cognitive Closure,1
+NFCC1993,NFCC1993,Need for Cognitive Closure,Decisiveness,2
+NFCC1993,NFCC1993,Discomfort with Ambiguity,Need for Cognitive Closure,1
+NFCC1993,NFCC1993,Need for Cognitive Closure,Discomfort with Ambiguity,2
+NFCC1993,NFCC1993,Closed-Mindedness,Need for Cognitive Closure,1
+NFCC1993,NFCC1993,Need for Cognitive Closure,Closed-Mindedness,2
+LTO,LTO,Tradition,Long Term Orientation,1
+LTO,LTO,Long Term Orientation,Tradition,2
+LTO,LTO,Planning,Long Term Orientation,1
+LTO,LTO,Long Term Orientation,Planning,2
+VSM13,VSM13,Individualism,Collectivism,4
+VSM13,VSM13,Collectivism,Individualism,4
+VSM13,VSM13,Masculinity,Femininity,4
+VSM13,VSM13,Femininity,Masculinity,4
+VSM13,VSM13,Long Term Orientation,Short Term Orientation,4
+VSM13,VSM13,Short Term Orientation,Long Term Orientation,4
+VSM13,VSM13,Indulgence,Restraint,4
+VSM13,VSM13,Restraint,Indulgence,4
+PVQ40,PVQ40,Conformity,Conservation,1
+PVQ40,PVQ40,Conservation,Conformity,2
+PVQ40,PVQ40,Tradition,Conservation,1
+PVQ40,PVQ40,Conservation,Tradition,2
+PVQ40,PVQ40,Benevolence,Self-Transcendence,1
+PVQ40,PVQ40,Self-Transcendence,Benevolence,2
+PVQ40,PVQ40,Universalism,Self-Transcendence,1
+PVQ40,PVQ40,Self-Transcendence,Universalism,2
+PVQ40,PVQ40,Self-Direction,Openness to Change,1
+PVQ40,PVQ40,Openness to Change,Self-Direction,2
+PVQ40,PVQ40,Stimulation,Openness to Change,1
+PVQ40,PVQ40,Openness to Change,Stimulation,2
+PVQ40,PVQ40,Hedonism,Openness to Change,1
+PVQ40,PVQ40,Openness to Change,Hedonism,2
+PVQ40,PVQ40,Hedonism,Self-Enhancement ,1
+PVQ40,PVQ40,Self-Enhancement ,Hedonism,2
+PVQ40,PVQ40,Achievement,Self-Enhancement ,1
+PVQ40,PVQ40,Self-Enhancement ,Achievement,2
+PVQ40,PVQ40,Power,Self-Enhancement ,1
+PVQ40,PVQ40,Self-Enhancement ,Power,2
+PVQ40,PVQ40,Security,Conservation,1
+PVQ40,PVQ40,Conservation,Security,2
+PVQ40,PVQ40,Dependability ,Benevolence,1
+PVQ40,PVQ40,Benevolence,Dependability ,2
+PVQ40,PVQ40,Caring,Benevolence,1
+PVQ40,PVQ40,Benevolence,Caring,2
+PVQ40,PVQ40,Tolerance,Universalism,1
+PVQ40,PVQ40,Universalism,Tolerance,2
+PVQ40,PVQ40,Concern,Universalism,1
+PVQ40,PVQ40,Universalism,Concern,2
+PVQ40,PVQ40,Nature,Universalism,1
+PVQ40,PVQ40,Universalism,Nature,2
+PVQ40,PVQ40,Humility,Self-Transcendence,1
+PVQ40,PVQ40,Self-Transcendence,Humility,2
+PVQ40,PVQ40,Humility,Conservation,1
+PVQ40,PVQ40,Conservation,Humility,2
+PVQ40,PVQ40,Conformity:Interpersonal,Conformity,1
+PVQ40,PVQ40,Conformity,Conformity:Interpersonal,2
+PVQ40,PVQ40,Conformity:Rules,Conformity,1
+PVQ40,PVQ40,Conformity,Conformity:Rules,2
+PVQ40,PVQ40,Security:Societal,Security,1
+PVQ40,PVQ40,Security,Security:Societal,2
+PVQ40,PVQ40,Security:Personal,Security,1
+PVQ40,PVQ40,Security,Security:Personal,2
+PVQ40,PVQ40,Face,Self-Enhancement ,1
+PVQ40,PVQ40,Self-Enhancement ,Face,2
+PVQ40,PVQ40,Face,Conservation,1
+PVQ40,PVQ40,Conservation,Face,2
+PVQ40,PVQ40,Power:Resources,Power,1
+PVQ40,PVQ40,Power,Power:Resources,2
+PVQ40,PVQ40,Power:Dominance,Power,1
+PVQ40,PVQ40,Power,Power:Dominance,2
+PVQ40,PVQ40,Self-Direction:Action,Self-Direction,1
+PVQ40,PVQ40,Self-Direction,Self-Direction:Action,2
+PVQ40,PVQ40,Self-Direction:Thought,Self-Direction,1
+PVQ40,PVQ40,Self-Direction,Self-Direction:Thought,2
+CSF,CSF,Desire to Gain Face,Consciousness of Social Face,1
+CSF,CSF,Consciousness of Social Face,Desire to Gain Face,2
+CSF,CSF,Fear of Losing Face,Consciousness of Social Face,1
+CSF,CSF,Consciousness of Social Face,Fear of Losing Face,2
+AHS,AHS,Attention:Field,Holistic Thinking,1
+AHS,AHS,Holistic Thinking,Attention:Field,2
+AHS,AHS,Attention:Field,Attention:Parts,4
+AHS,AHS,Attention:Parts,Attention:Field,4
+AHS,AHS,Attention:Parts,Analytic Thinking,1
+AHS,AHS,Analytic Thinking,Attention:Parts,2
+AHS,AHS,Causality:Interactionism,Holistic Thinking,1
+AHS,AHS,Holistic Thinking,Causality:Interactionism,2
+AHS,AHS,Causality:Interactionism,Causality:Dispositionism,4
+AHS,AHS,Causality:Dispositionism,Causality:Interactionism,4
+AHS,AHS,Causality:Dispositionism,Analytic Thinking,1
+AHS,AHS,Analytic Thinking,Causality:Dispositionism,2
+AHS,AHS,Perception of Change:Cyclic,Holistic Thinking,1
+AHS,AHS,Holistic Thinking,Perception of Change:Cyclic,2
+AHS,AHS,Perception of Change:Cyclic,Perception of Change:Linear,4
+AHS,AHS,Perception of Change:Linear,Perception of Change:Cyclic,4
+AHS,AHS,Perception of Change:Linear,Analytic Thinking,1
+AHS,AHS,Analytic Thinking,Perception of Change:Linear,2
+AHS,AHS,Contradiction:Naive Dialecticism,Holistic Thinking,1
+AHS,AHS,Holistic Thinking,Contradiction:Naive Dialecticism,2
+AHS,AHS,Contradiction:Naive Dialecticism,Contradiction:Formal Logic,4
+AHS,AHS,Contradiction:Formal Logic,Contradiction:Naive Dialecticism,4
+AHS,AHS,Contradiction:Formal Logic,Analytic Thinking,1
+AHS,AHS,Analytic Thinking,Contradiction:Formal Logic,2
+HEXACO,HEXACO,Sincerity,Honesty-Humility,1
+HEXACO,HEXACO,Honesty-Humility,Sincerity,2
+HEXACO,HEXACO,Fairness,Honesty-Humility,1
+HEXACO,HEXACO,Honesty-Humility,Fairness,2
+HEXACO,HEXACO,Greed Avoidance?,Honesty-Humility,1
+HEXACO,HEXACO,Honesty-Humility,Greed Avoidance?,2
+HEXACO,HEXACO,Modesty,Honesty-Humility,1
+HEXACO,HEXACO,Honesty-Humility,Modesty,2
+HEXACO,HEXACO,Fearfulness,Emotionality,1
+HEXACO,HEXACO,Emotionality,Fearfulness,2
+HEXACO,HEXACO,Anxiety,Emotionality,1
+HEXACO,HEXACO,Emotionality,Anxiety,2
+HEXACO,HEXACO,Dependence,Emotionality,1
+HEXACO,HEXACO,Emotionality,Dependence,2
+HEXACO,HEXACO,Sentimentality,Emotionality,1
+HEXACO,HEXACO,Emotionality,Sentimentality,2
+HEXACO,HEXACO,Social Self-Esteem,Extraversion,1
+HEXACO,HEXACO,Extraversion,Social Self-Esteem,2
+HEXACO,HEXACO,Social Boldness,Extraversion,1
+HEXACO,HEXACO,Extraversion,Social Boldness,2
+HEXACO,HEXACO,Sociability,Extraversion,1
+HEXACO,HEXACO,Extraversion,Sociability,2
+HEXACO,HEXACO,Liveliness,Extraversion,1
+HEXACO,HEXACO,Extraversion,Liveliness,2
+HEXACO,HEXACO,Forgivingness,Agreeableness,1
+HEXACO,HEXACO,Agreeableness,Forgivingness,2
+HEXACO,HEXACO,Gentleness,Agreeableness,1
+HEXACO,HEXACO,Agreeableness,Gentleness,2
+HEXACO,HEXACO,Flexibility,Agreeableness,1
+HEXACO,HEXACO,Agreeableness,Flexibility,2
+HEXACO,HEXACO,Patience,Agreeableness,1
+HEXACO,HEXACO,Agreeableness,Patience,2
+HEXACO,HEXACO,Organization,Conscientiousness,1
+HEXACO,HEXACO,Conscientiousness,Organization,2
+HEXACO,HEXACO,Diligence,Conscientiousness,1
+HEXACO,HEXACO,Conscientiousness,Diligence,2
+HEXACO,HEXACO,Perfectionism,Conscientiousness,1
+HEXACO,HEXACO,Conscientiousness,Perfectionism,2
+HEXACO,HEXACO,Prudence,Conscientiousness,1
+HEXACO,HEXACO,Conscientiousness,Prudence,2
+HEXACO,HEXACO,Aesthetic Appreciation,Openness to Experience,1
+HEXACO,HEXACO,Openness to Experience,Aesthetic Appreciation,2
+HEXACO,HEXACO,Inquisitiveness,Openness to Experience,1
+HEXACO,HEXACO,Openness to Experience,Inquisitiveness,2
+HEXACO,HEXACO,Creativity,Openness to Experience,1
+HEXACO,HEXACO,Openness to Experience,Creativity,2
+HEXACO,HEXACO,Unconventionality,Openness to Experience,1
+HEXACO,HEXACO,Openness to Experience,Unconventionality,2
+SA,SA,Fate Determinism,Fate Control,1
+SA,SA,Fate Control,Fate Determinism,2
+SA,SA,Fate Alterability,Fate Control,1
+SA,SA,Fate Control,Fate Alterability,2
+ZSC,ZSC,Belief in Zero-sum Game,Belief in Joint Profit Exchange,4
+ZSC,ZSC,Belief in Joint Profit Exchange,Belief in Zero-sum Game,4
+6FPQ,6FPQ,Abasement,Agreeableness,1
+6FPQ,6FPQ,Agreeableness,Abasement,2
+6FPQ,6FPQ,Even-Tempered,Agreeableness,1
+6FPQ,6FPQ,Agreeableness,Even-Tempered,2
+6FPQ,6FPQ,Good-Natured,Agreeableness,1
+6FPQ,6FPQ,Agreeableness,Good-Natured,2
+6FPQ,6FPQ,Affiliation,Extroversion,1
+6FPQ,6FPQ,Extroversion,Affiliation,2
+6FPQ,6FPQ,Dominance,Extroversion,1
+6FPQ,6FPQ,Extroversion,Dominance,2
+6FPQ,6FPQ,Exhibition,Extroversion,1
+6FPQ,6FPQ,Extroversion,Exhibition,2
+6FPQ,6FPQ,Autonomy,Independence,1
+6FPQ,6FPQ,Independence,Autonomy,2
+6FPQ,6FPQ,Individualism,Independence,1
+6FPQ,6FPQ,Independence,Individualism,2
+6FPQ,6FPQ,Self-Reliance,Independence,1
+6FPQ,6FPQ,Independence,Self-Reliance,2
+6FPQ,6FPQ,Achievement,Industriousness,1
+6FPQ,6FPQ,Industriousness,Achievement,2
+6FPQ,6FPQ,Seriousness,Industriousness,1
+6FPQ,6FPQ,Industriousness,Seriousness,2
+6FPQ,6FPQ,Seriousness,playfulness,4
+6FPQ,6FPQ,playfulness,Seriousness,4
+6FPQ,6FPQ,Endurance,Industriousness,1
+6FPQ,6FPQ,Industriousness,Endurance,2
+6FPQ,6FPQ,Cognitive Structure,Methodicalness,1
+6FPQ,6FPQ,Methodicalness,Cognitive Structure,2
+6FPQ,6FPQ,Deliberateness,Methodicalness,1
+6FPQ,6FPQ,Methodicalness,Deliberateness,2
+6FPQ,6FPQ,Order,Methodicalness,1
+6FPQ,6FPQ,Methodicalness,Order,2
+6FPQ,6FPQ,Change,Openness to Experience,1
+6FPQ,6FPQ,Openness to Experience,Change,2
+6FPQ,6FPQ,Understanding,Openness to Experience,1
+6FPQ,6FPQ,Openness to Experience,Understanding,2
+6FPQ,6FPQ,Breadth of Interest,Openness to Experience,1
+6FPQ,6FPQ,Openness to Experience,Breadth of Interest,2
+AB5C,AB5C,Gregariousness,Extraversion,1
+AB5C,AB5C,Extraversion,Gregariousness,2
+AB5C,AB5C,Friendliness,Extraversion,1
+AB5C,AB5C,Extraversion,Friendliness,2
+AB5C,AB5C,Assertiveness,Extraversion,1
+AB5C,AB5C,Extraversion,Assertiveness,2
+AB5C,AB5C,Poise,Extraversion,1
+AB5C,AB5C,Extraversion,Poise,2
+AB5C,AB5C,Leadership,Extraversion,1
+AB5C,AB5C,Extraversion,Leadership,2
+AB5C,AB5C,Provocativeness,Extraversion,1
+AB5C,AB5C,Extraversion,Provocativeness,2
+AB5C,AB5C,Self-disclosure,Extraversion,1
+AB5C,AB5C,Extraversion,Self-disclosure,2
+AB5C,AB5C,Talkativeness,Extraversion,1
+AB5C,AB5C,Extraversion,Talkativeness,2
+AB5C,AB5C,Sociability,Extraversion,1
+AB5C,AB5C,Extraversion,Sociability,2
+AB5C,AB5C,Understanding,Agreeableness,1
+AB5C,AB5C,Agreeableness,Understanding,2
+AB5C,AB5C,Warmth,Agreeableness,1
+AB5C,AB5C,Agreeableness,Warmth,2
+AB5C,AB5C,Morality,Agreeableness,1
+AB5C,AB5C,Agreeableness,Morality,2
+AB5C,AB5C,Pleasantness,Agreeableness,1
+AB5C,AB5C,Agreeableness,Pleasantness,2
+AB5C,AB5C,Empathy,Agreeableness,1
+AB5C,AB5C,Agreeableness,Empathy,2
+AB5C,AB5C,Cooperation,Agreeableness,1
+AB5C,AB5C,Agreeableness,Cooperation,2
+AB5C,AB5C,Sympathy,Agreeableness,1
+AB5C,AB5C,Agreeableness,Sympathy,2
+AB5C,AB5C,Tenderness,Agreeableness,1
+AB5C,AB5C,Agreeableness,Tenderness,2
+AB5C,AB5C,Nurturance,Agreeableness,1
+AB5C,AB5C,Agreeableness,Nurturance,2
+AB5C,AB5C,Conscientiousness,Conscientiousness,1
+AB5C,AB5C,Conscientiousness,Conscientiousness,2
+AB5C,AB5C,Efficiency,Conscientiousness,1
+AB5C,AB5C,Conscientiousness,Efficiency,2
+AB5C,AB5C,Dutifulness,Conscientiousness,1
+AB5C,AB5C,Conscientiousness,Dutifulness,2
+AB5C,AB5C,Purposefulness,Conscientiousness,1
+AB5C,AB5C,Conscientiousness,Purposefulness,2
+AB5C,AB5C,Organization,Conscientiousness,1
+AB5C,AB5C,Conscientiousness,Organization,2
+AB5C,AB5C,Cautiousness,Conscientiousness,1
+AB5C,AB5C,Conscientiousness,Cautiousness,2
+AB5C,AB5C,Rationality,Conscientiousness,1
+AB5C,AB5C,Conscientiousness,Rationality,2
+AB5C,AB5C,Perfectionism,Conscientiousness,1
+AB5C,AB5C,Conscientiousness,Perfectionism,2
+AB5C,AB5C,Orderliness,Conscientiousness,1
+AB5C,AB5C,Conscientiousness,Orderliness,2
+AB5C,AB5C,Stability,Stability,1
+AB5C,AB5C,Stability,Stability,2
+AB5C,AB5C,Happiness,Stability,1
+AB5C,AB5C,Stability,Happiness,2
+AB5C,AB5C,Calmness,Stability,1
+AB5C,AB5C,Stability,Calmness,2
+AB5C,AB5C,Moderation,Stability,1
+AB5C,AB5C,Stability,Moderation,2
+AB5C,AB5C,Toughness,Stability,1
+AB5C,AB5C,Stability,Toughness,2
+AB5C,AB5C,Impulse Control,Stability,1
+AB5C,AB5C,Stability,Impulse Control,2
+AB5C,AB5C,Imperturbability,Stability,1
+AB5C,AB5C,Stability,Imperturbability,2
+AB5C,AB5C,Cool-headedness,Stability,1
+AB5C,AB5C,Stability,Cool-headedness,2
+AB5C,AB5C,Tranquility,Stability,1
+AB5C,AB5C,Stability,Tranquility,2
+AB5C,AB5C,Intellect,Intellect,1
+AB5C,AB5C,Intellect,Intellect,2
+AB5C,AB5C,Ingenuity,Intellect,1
+AB5C,AB5C,Intellect,Ingenuity,2
+AB5C,AB5C,Reflection,Intellect,1
+AB5C,AB5C,Intellect,Reflection,2
+AB5C,AB5C,Competence,Intellect,1
+AB5C,AB5C,Intellect,Competence,2
+AB5C,AB5C,Quickness,Intellect,1
+AB5C,AB5C,Intellect,Quickness,2
+AB5C,AB5C,Introspection,Intellect,1
+AB5C,AB5C,Intellect,Introspection,2
+AB5C,AB5C,Creativity,Intellect,1
+AB5C,AB5C,Intellect,Creativity,2
+AB5C,AB5C,Imagination,Intellect,1
+AB5C,AB5C,Intellect,Imagination,2
+AB5C,AB5C,Depth,Intellect,1
+AB5C,AB5C,Intellect,Depth,2
+BIS_BAS,BIS_BAS,Drive,Behavioral Approach System,1
+BIS_BAS,BIS_BAS,Behavioral Approach System,Drive,2
+BIS_BAS,BIS_BAS,Fun Seeking,Behavioral Approach System,1
+BIS_BAS,BIS_BAS,Behavioral Approach System,Fun Seeking,2
+BIS_BAS,BIS_BAS,Reward Responsiveness,Behavioral Approach System,1
+BIS_BAS,BIS_BAS,Behavioral Approach System,Reward Responsiveness,2
+Buss1980,Buss1980,Private Self-Consciousness,Public Self-consciousness,4
+Buss1980,Buss1980,Public Self-consciousness,Private Self-Consciousness,4
+JPI,JPI,Complexity,Analytical,1
+JPI,JPI,Analytical,Complexity,2
+JPI,JPI,Breadth of Interest,Analytical,1
+JPI,JPI,Analytical,Breadth of Interest,2
+JPI,JPI,Innovation,Analytical,1
+JPI,JPI,Analytical,Innovation,2
+JPI,JPI,Tolerance,Analytical,1
+JPI,JPI,Analytical,Tolerance,2
+JPI,JPI,Sociability,Extroverted,1
+JPI,JPI,Extroverted,Sociability,2
+JPI,JPI,Social Confidence,Extroverted,1
+JPI,JPI,Extroverted,Social Confidence,2
+JPI,JPI,Energy Level,Extroverted,1
+JPI,JPI,Extroverted,Energy Level,2
+JPI,JPI,Empathy,Emotional,1
+JPI,JPI,Emotional,Empathy,2
+JPI,JPI,Anxiety,Emotional,1
+JPI,JPI,Emotional,Anxiety,2
+JPI,JPI,Cooperativeness,Emotional,1
+JPI,JPI,Emotional,Cooperativeness,2
+JPI,JPI,Risk Taking,Opportunistic,1
+JPI,JPI,Opportunistic,Risk Taking,2
+JPI,JPI,Social Astuteness,Opportunistic,1
+JPI,JPI,Opportunistic,Social Astuteness,2
+JPI,JPI,Organization,Dependable,1
+JPI,JPI,Dependable,Organization,2
+JPI,JPI,Traditional Values,Dependable,1
+JPI,JPI,Dependable,Traditional Values,2
+JPI,JPI,Responsibility,Dependable,1
+JPI,JPI,Dependable,Responsibility,2
+TCI,TCI, Exploratory Excitability , Novelty Seeking ,1
+TCI,TCI, Novelty Seeking , Exploratory Excitability ,2
+TCI,TCI, Impulsiveness?, Novelty Seeking ,1
+TCI,TCI, Novelty Seeking , Impulsiveness?,2
+TCI,TCI, Extravagance , Novelty Seeking ,1
+TCI,TCI, Novelty Seeking , Extravagance ,2
+TCI,TCI, Disorderliness , Novelty Seeking ,1
+TCI,TCI, Novelty Seeking , Disorderliness ,2
+TCI,TCI, Anticipatory Worry and Pessimism, Harm Avoidance ,1
+TCI,TCI, Harm Avoidance , Anticipatory Worry and Pessimism,2
+TCI,TCI, Fear of Uncertainty , Harm Avoidance ,1
+TCI,TCI, Harm Avoidance , Fear of Uncertainty ,2
+TCI,TCI, Shyness , Harm Avoidance ,1
+TCI,TCI, Harm Avoidance , Shyness ,2
+TCI,TCI, Fatigability , Harm Avoidance ,1
+TCI,TCI, Harm Avoidance , Fatigability ,2
+TCI,TCI, Sentimentality?, Reward dependence ,1
+TCI,TCI, Reward dependence , Sentimentality?,2
+TCI,TCI, Openness to Warm Communication , Reward dependence ,1
+TCI,TCI, Reward dependence , Openness to Warm Communication ,2
+TCI,TCI, Attachment , Reward dependence ,1
+TCI,TCI, Reward dependence , Attachment ,2
+TCI,TCI, Dependence , Reward dependence ,1
+TCI,TCI, Reward dependence , Dependence ,2
+TCI,TCI, Eagerness of Effort , Persistence ,1
+TCI,TCI, Persistence , Eagerness of Effort ,2
+TCI,TCI, Work Hardened , Persistence ,1
+TCI,TCI, Persistence , Work Hardened ,2
+TCI,TCI, Ambitious , Persistence ,1
+TCI,TCI, Persistence , Ambitious ,2
+TCI,TCI, Perfectionist , Persistence ,1
+TCI,TCI, Persistence , Perfectionist ,2
+TCI,TCI, Responsibility , Self-directedness ,1
+TCI,TCI, Self-directedness , Responsibility ,2
+TCI,TCI, Purposeful , Self-directedness ,1
+TCI,TCI, Self-directedness , Purposeful ,2
+TCI,TCI, Resourcefulness , Self-directedness ,1
+TCI,TCI, Self-directedness , Resourcefulness ,2
+TCI,TCI, Self-acceptance , Self-directedness ,1
+TCI,TCI, Self-directedness , Self-acceptance ,2
+TCI,TCI, Enlightened Second Nature , Self-directedness ,1
+TCI,TCI, Self-directedness , Enlightened Second Nature ,2
+TCI,TCI,Social Acceptance,Cooperativeness,1
+TCI,TCI,Cooperativeness,Social Acceptance,2
+TCI,TCI,Empathy,Cooperativeness,1
+TCI,TCI,Cooperativeness,Empathy,2
+TCI,TCI,Helpfulness,Cooperativeness,1
+TCI,TCI,Cooperativeness,Helpfulness,2
+TCI,TCI,Compassion,Cooperativeness,1
+TCI,TCI,Cooperativeness,Compassion,2
+TCI,TCI,Pure-hearted Conscience,Cooperativeness,1
+TCI,TCI,Cooperativeness,Pure-hearted Conscience,2
+TCI,TCI,Self-forgetful,Self-transcendence,1
+TCI,TCI,Self-transcendence,Self-forgetful,2
+TCI,TCI,Transpersonal Identification,Self-transcendence,1
+TCI,TCI,Self-transcendence,Transpersonal Identification,2
+TCI,TCI,Spiritual Acceptance,Self-transcendence,1
+TCI,TCI,Self-transcendence,Spiritual Acceptance,2
+SVS,SVS,Social power ,Power,1
+SVS,SVS,Power,Social power ,2
+SVS,SVS,Authority ,Power,1
+SVS,SVS,Power,Authority ,2
+SVS,SVS,Wealth ,Power,1
+SVS,SVS,Power,Wealth ,2
+SVS,SVS,Preserving My Public Image ,Power,1
+SVS,SVS,Power,Preserving My Public Image ,2
+SVS,SVS,Social Recognition ,Power,1
+SVS,SVS,Power,Social Recognition ,2
+SVS,SVS,Successful,Achievement,1
+SVS,SVS,Achievement,Successful,2
+SVS,SVS,Capable ,Achievement,1
+SVS,SVS,Achievement,Capable ,2
+SVS,SVS,Ambitious ,Achievement,1
+SVS,SVS,Achievement,Ambitious ,2
+SVS,SVS,Influential ,Achievement,1
+SVS,SVS,Achievement,Influential ,2
+SVS,SVS,Intelligent ,Achievement,1
+SVS,SVS,Achievement,Intelligent ,2
+SVS,SVS,Pleasure ,Hedonism ,1
+SVS,SVS,Hedonism ,Pleasure ,2
+SVS,SVS,Self-indulgent,Hedonism ,1
+SVS,SVS,Hedonism ,Self-indulgent,2
+SVS,SVS,Enjoying Life ,Hedonism ,1
+SVS,SVS,Hedonism ,Enjoying Life ,2
+SVS,SVS,Daring ,Stimulation,1
+SVS,SVS,Stimulation,Daring ,2
+SVS,SVS,A Varied Life ,Stimulation,1
+SVS,SVS,Stimulation,A Varied Life ,2
+SVS,SVS,An exciting life ,Stimulation,1
+SVS,SVS,Stimulation,An exciting life ,2
+SVS,SVS,Curious,Self-direction,1
+SVS,SVS,Self-direction,Curious,2
+SVS,SVS,Creativity ,Self-direction,1
+SVS,SVS,Self-direction,Creativity ,2
+SVS,SVS,Freedom ,Self-direction,1
+SVS,SVS,Self-direction,Freedom ,2
+SVS,SVS,Choosing own goals ,Self-direction,1
+SVS,SVS,Self-direction,Choosing own goals ,2
+SVS,SVS,Independent ,Self-direction,1
+SVS,SVS,Self-direction,Independent ,2
+SVS,SVS,Self-respect ,Self-direction,1
+SVS,SVS,Self-direction,Self-respect ,2
+SVS,SVS,Protecting the Environment ,Universalism,1
+SVS,SVS,Universalism,Protecting the Environment ,2
+SVS,SVS,Unity with Nature ,Universalism,1
+SVS,SVS,Universalism,Unity with Nature ,2
+SVS,SVS,A World of Beauty ,Universalism,1
+SVS,SVS,Universalism,A World of Beauty ,2
+SVS,SVS,Broad-minded ,Universalism,1
+SVS,SVS,Universalism,Broad-minded ,2
+SVS,SVS,Social Justice ,Universalism,1
+SVS,SVS,Universalism,Social Justice ,2
+SVS,SVS,Wisdom ,Universalism,1
+SVS,SVS,Universalism,Wisdom ,2
+SVS,SVS,Equality ,Universalism,1
+SVS,SVS,Universalism,Equality ,2
+SVS,SVS,A World at Peace ,Universalism,1
+SVS,SVS,Universalism,A World at Peace ,2
+SVS,SVS,Inner harmony ,Universalism,1
+SVS,SVS,Universalism,Inner harmony ,2
+SVS,SVS,Helpful ,Benevolence,1
+SVS,SVS,Benevolence,Helpful ,2
+SVS,SVS,Honest ,Benevolence,1
+SVS,SVS,Benevolence,Honest ,2
+SVS,SVS,Forgiving ,Benevolence,1
+SVS,SVS,Benevolence,Forgiving ,2
+SVS,SVS,Loyal ,Benevolence,1
+SVS,SVS,Benevolence,Loyal ,2
+SVS,SVS,Responsible ,Benevolence,1
+SVS,SVS,Benevolence,Responsible ,2
+SVS,SVS,A Spiritual Life ,Benevolence,1
+SVS,SVS,Benevolence,A Spiritual Life ,2
+SVS,SVS,True Friendship ,Benevolence,1
+SVS,SVS,Benevolence,True Friendship ,2
+SVS,SVS,Mature Love ,Benevolence,1
+SVS,SVS,Benevolence,Mature Love ,2
+SVS,SVS,Meaning in Life ,Benevolence,1
+SVS,SVS,Benevolence,Meaning in Life ,2
+SVS,SVS,Accepting My Portion in Life ,Tradition,1
+SVS,SVS,Tradition,Accepting My Portion in Life ,2
+SVS,SVS,Devout ,Tradition,1
+SVS,SVS,Tradition,Devout ,2
+SVS,SVS,Humble ,Tradition,1
+SVS,SVS,Tradition,Humble ,2
+SVS,SVS,Respect for Tradition ,Tradition,1
+SVS,SVS,Tradition,Respect for Tradition ,2
+SVS,SVS,Moderate ,Tradition,1
+SVS,SVS,Tradition,Moderate ,2
+SVS,SVS,Obedient ,Conformity,1
+SVS,SVS,Conformity,Obedient ,2
+SVS,SVS,Honoring of Parents and Elders ,Conformity,1
+SVS,SVS,Conformity,Honoring of Parents and Elders ,2
+SVS,SVS,Politeness ,Conformity,1
+SVS,SVS,Conformity,Politeness ,2
+SVS,SVS,Self-discipline ,Conformity,1
+SVS,SVS,Conformity,Self-discipline ,2
+SVS,SVS,Clean ,Security,1
+SVS,SVS,Security,Clean ,2
+SVS,SVS,National Security ,Security,1
+SVS,SVS,Security,National Security ,2
+SVS,SVS,Reciprocation of Favors ,Security,1
+SVS,SVS,Security,Reciprocation of Favors ,2
+SVS,SVS,Social Order ,Security,1
+SVS,SVS,Security,Social Order ,2
+SVS,SVS,Family Security,Security,1
+SVS,SVS,Security,Family Security,2
+SVS,SVS,Sense of Belonging ,Security,1
+SVS,SVS,Security,Sense of Belonging ,2
+SVS,SVS,Healthy,Security,1
+SVS,SVS,Security,Healthy,2
