@@ -23,6 +23,19 @@ An example of evaluating the value orientations of an LLM
 ```bash
 python eval_value_orientation.py --test_model gpt-3.5-turbo --questionnaire NFCC2000,LTO
 ```
+
+An example of evaluating the value understanding ability for item2value extraction of an LLM
+```bash
+python eval_value_understanding_extraction.py --test_model gpt-3.5-turbo --questionnaire NFCC2000,LTO
+```
+
+An example of evaluating the value understanding ability for value2item generation of an LLM
+```bash
+python eval_value_understanding_generation.py --test_model gpt-3.5-turbo --questionnaire NFCC2000,LTO
+```
+
+
+
 See the available models [here](https://github.com/Value4AI/ValueBench/blob/main/models/__init__.py) and the available questionnaires [here](https://github.com/Value4AI/ValueBench/blob/main/data/value_orientation.csv).
 
 ## Citation
