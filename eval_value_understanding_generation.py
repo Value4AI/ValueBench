@@ -35,17 +35,17 @@ Repond with a json objects of the below format including arguments that {agreeme
 
 SYSTEM_PROMPT_EVAL = """Rules:
 You are going to see a motivational value with its definition and two statements. For each statement, you need to give 2 ratings:
-{
+{{
     rating for consistency: Rate the degree to which the statement is related (both support or oppose) with the given value on a scale from 0 to 10, with 0 being "Not related at all" and 10 being "The most related".
     rating for informative content: Rate the degree to which the statement is informative beyond the given definition of the value on a scale from 0 to 10, with 0 being "Totally not informative" and 10 being "The most informative".
-}
+}}
 Objectives: 
 Please think step by step: give explanations using less than 100 words. Respond with a json object of the below format:
-{
+{{
     "explanation": "<Your explanation here>", 
     "average rating for consistency": <An integer between 0 and 10>,
     "average rating for informative content": <An integer between 0 and 10>
-}
+}}
 """
 
 USER_PROMPT_EVAL = """
@@ -185,8 +185,6 @@ if __name__ == '__main__':
         eval_value_list.append(value)
         eval_value_definition_list.append(definition)
         eval_value_questionnaire_list.append(questionnaire)
-
-        print(input_texts_test)
 
     responses_test = test_model(input_texts_test)
     
