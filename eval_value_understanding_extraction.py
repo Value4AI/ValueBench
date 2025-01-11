@@ -145,7 +145,7 @@ if __name__ == '__main__':
                             For symmetric, perform evaluation with symmetric prompt\
                             For asymmetric, perform evaluation with asymmetric prompt\
                             ; defaults to symmetric')
-    parser.add_argument('--value_pair_source', type=str, default='ground_truth',
+    parser.add_argument('--value_pair_source', type=str, default='extracted',
                         help='The source of the evaluated value pairs. \
                             For ground_truth, perform evaluation on sampled positive and negtive pairs\
                             For extracted, perform evaluation between extracted values and reference values\
